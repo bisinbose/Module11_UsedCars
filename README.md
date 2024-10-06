@@ -1,9 +1,9 @@
 **Introduction**
 	  		
  In this application, used car dataset from kaggle is used. The original dataset contained information on 3 million used cars. 
-     The provided dataset contains information on 426K cars to ensure speed of processing. 
-     The goal is to understand what factors make a car more or less expensive. 
-     As a result of the analysis, application should provide clear recommendations to the client -- a used car dealership -- as to what consumers value in a used car.
+ The provided dataset contains information on 426K cars to ensure speed of processing. 
+ The goal is to understand what factors make a car more or less expensive. 
+ As a result of the analysis, application should provide clear recommendations to the client -- a used car dealership -- as to what consumers value in a used car.
 
 **The Business Problem**	
 			
@@ -36,9 +36,9 @@
 			drive
 			size
 			type
-  For the categorical features, we used label encoding to convert them to numerical values. 
-   I was able to explore various regression models (Linear, Lasso and Ridge). The best model was the Linear Regression model with Polynomial Features of degree 3.
-   Across all models, it was apparent that the features impacting the most the variation of price was the year of the vehicle.
+  For the categorical features, we used label encoding to convert them to numerical values.  
+  I was able to explore various regression models (Linear, Lasso and Ridge). The best model was the Linear Regression model with Polynomial Features of degree 3. 
+  Across all models, it was apparent that the features impacting the most the variation of price was the year of the vehicle.
 
 		
 
