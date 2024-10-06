@@ -38,7 +38,7 @@
 			type
    For the categorical features, we used label encoding to convert them to numerical values. 
    I was able to explore various regression models (Linear, Lasso and Ridge). The best model was the Linear Regression model with Polynomial Features of degree 3.
-   Across all models, it was apparent that the features impacting the most the variation of price was the year of the vehicle. 
+   Across all models, it was apparent that the features impacting the most the variation of price was the year of the vehicle.
 
 		
 
