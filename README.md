@@ -1,6 +1,6 @@
 **Introduction**
 	  		
-     In this application, used car dataset from kaggle is used. The original dataset contained information on 3 million used cars. 
+ In this application, used car dataset from kaggle is used. The original dataset contained information on 3 million used cars. 
      The provided dataset contains information on 426K cars to ensure speed of processing. 
      The goal is to understand what factors make a car more or less expensive. 
      As a result of the analysis, application should provide clear recommendations to the client -- a used car dealership -- as to what consumers value in a used car.
