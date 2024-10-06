@@ -17,7 +17,7 @@
 
 **Preparing the Data**  
 			
-   We removed those columns that are not necessary features that could be used to determine the price of the car.  Also rows with missing data is removed.
+   We removed those unnecessary features that could be used to determine the price of the car.  Also rows with missing data is removed.
 
 **Data Analysis**
 		  
